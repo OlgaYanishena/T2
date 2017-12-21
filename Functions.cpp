@@ -20,5 +20,5 @@ double MyMul(double a, double b)
 
 double MyDiv(double a, double b)
 {
-	//функция деления
+	return a / b;
 }
