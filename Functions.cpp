@@ -5,7 +5,7 @@
 
 double MySum(double a, double b)
 {
-	//функция суммы
+	return a + b;
 }
 
 double MySub(double a, double b)
